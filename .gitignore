@@ -1,0 +1,6 @@
+env/
+__pycache__/
+*.pyc
+djerhums/db.sqlite3
+djerhums/db.sqlite3.bak*
+.DS_Store
